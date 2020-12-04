@@ -1,8 +1,8 @@
 import React, { Component } from "react";
 import DataTable from "./DataTable";
-import Nav from "./Nav";
+import Navbar from "./Navbar.js";
 import Api from "../utilis/Api.js";
-import "../styles/DataArea.css";
+//import "../styles/DataArea.css";
 export default class DataArea extends Component {
   state = {
     users: [{}],
@@ -81,7 +81,7 @@ export default class DataArea extends Component {
   render() {
     return (
       <>
-        <Nav handleSearchChange={this.handleSearchChange} />
+        <Navbar handleSearchChange={this.handleSearchChange} />
         <div className="data-area">
           <DataTable
             headings={this.headings}
