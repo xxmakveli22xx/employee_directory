@@ -15,6 +15,7 @@ function DataBody({ users }) {
       {users[0] !== undefined && users[0].name !== undefined ? (
         users.map(({ login, name, picture, phone, email, dob }) => {
           return (
+              <> </>
           //  use above mapped data and set into jsx
           );
         })

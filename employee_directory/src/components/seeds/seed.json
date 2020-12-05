@@ -1,0 +1,53 @@
+[
+    { 
+        "id": 0,
+        "name": "Zack Morris",
+        "phone": 555-555-8984,
+        "email": "preppie.morris@gmail.com",
+        "dob": 12/22/1973,
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.vibe.com%2F2012%2F06%2Factor-who-played-zack-morris-says-saved-bell-was-not-good-show&psig=AOvVaw18rjGTtJE3THk-PT--R5Px&ust=1607228803760000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCMCVuIaAtu0CFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 1,
+        "name": "AC Slater",
+        "phone": 555-555-7652,
+        "email": "slater@gmail.com",
+        "dob": 11/28/1979,
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.blogthings.com%2Fwhatsavedbythebellcharacterareyouquiz%2Fresults%2F%3Fresult%3DSlater&psig=AOvVaw2kRygoRBgeAKFbQu7Mh5KS&ust=1607228978936000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCNjJlt6Atu0CFQAAAAAdAAAAABAJ"
+    },
+    {
+        "id": 2,
+        "name": "Kelly Kapowski",
+        "phone": 555-555-1245,
+        "email": "kelly.k@gmail.com",
+        "dob": 01/03/1977,
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.instyle.com%2Freviews-coverage%2Ftiffani-thiessen-kelly-kapowski-wardrobe&psig=AOvVaw13H24hyYXcC4z-jiiRTZTy&ust=1607229137629000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKilismBtu0CFQAAAAAdAAAAABAL"
+    },
+    {
+        "id": 3,
+        "name": "Lisa Turtle",
+        "phone": 555-555-3333,
+        "email": "lisa.turtle@yahoo.com",
+        "dob": 04/12/1976,
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Ftvline.com%2F2020%2F10%2F29%2Fsaved-by-the-bell-revival-lisa-turtle-returning-lark-voorhies%2F&psig=AOvVaw2X8OoPZEVJtFcQAjNeLzUa&ust=1607229349534000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKDi8IuCtu0CFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 4,
+        "name": "Jessica Spano",
+        "phone": 555-555-4444,
+        "email": "jessicaCaffineFree@ymail.com",
+        "dob": 06/28/1976,
+        "picture": "https://www.google.com/url?sa=i&url=https%3A%2F%2Fsavedbythebell.fandom.com%2Fwiki%2FJessie_Spano&psig=AOvVaw2bo7GsmyaXYY7nlgKFL0vV&ust=1607229447066000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCOiKrraCtu0CFQAAAAAdAAAAABAD"
+    },
+    {
+        "id": 5,
+        "name": "Screech Powers",
+        "phone": 555-555-8888,
+        "email": "moviestarpowers@aol.com",
+        "dob": 09/26/1978,
+        "picture": "https://www.google.com/imgres?imgurl=https%3A%2F%2Fimg1.looper.com%2Fimg%2Fgallery%2Fwhatever-happened-to-screech-from-saved-by-the-bell%2Fintro.jpg&imgrefurl=https%3A%2F%2Fwww.looper.com%2F14959%2Fwhatever-happened-screech-saved-bell%2F&tbnid=fqfNCxBiczbR-M&vet=12ahUKEwjsuonFg7btAhUQBKwKHUdhD1UQMygDegUIARC8AQ..i&docid=zSUg66zz1ZGVrM&w=780&h=439&q=screech%20powers&ved=2ahUKEwjsuonFg7btAhUQBKwKHUdhD1UQMygDegUIARC8AQ"
+    }
+     
+]
+
+
