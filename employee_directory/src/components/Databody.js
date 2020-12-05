@@ -1,5 +1,5 @@
 import React from "react";
-import "../styles/DataBody.css";
+//import "../styles/DataBody.css";
 function DataBody({ users }) {
   function formatDate(date) {
     const dateArray = date.split("-");
