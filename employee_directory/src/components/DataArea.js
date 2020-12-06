@@ -76,7 +76,7 @@ export default class DataArea extends Component {
     Api.getUsers()
       .then(res => {
         this.setState({ results: res.data.results })
-        console.log("inside dataArea \n" +this.state.results)
+        console.log("inside dataArea \n" +res.data.results)
       }).catch(err => console.log(err))
   }
   render() {
