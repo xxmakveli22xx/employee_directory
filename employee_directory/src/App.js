@@ -7,7 +7,9 @@ import 'bootstrap/dist/css/bootstrap.min.css';
 
 
 function App() {
+  console.log("in the app.js");
   return (
+    
     <div>
       <Wrapper>
         <Header/>

@@ -71,13 +71,13 @@ export default class DataArea extends Component {
     });
     this.setState({ filteredUsers: filteredList });
   }
+  
   componentDidMount() {
-    Api.getUsers().then(results => {
-      this.setState({
-        users: results.data.results,
-        filteredUsers: results.data.results
-      });
-    });
+    Api.getUsers()
+      .then(res => {
+        this.setState({ results: res.data.results })
+        console.log("inside dataArea \n" +this.state.results)
+      }).catch(err => console.log(err))
   }
   render() {
     return (

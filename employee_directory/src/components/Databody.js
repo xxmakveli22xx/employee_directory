@@ -1,6 +1,9 @@
 import React from "react";
+import DataTable from "./DataTable";
 import "../styles/DataBody.css";
+
 function DataBody({ users }) {
+  console.log("inside DataBody.js databody fuct");
   function formatDate(date) {
     const dateArray = date.split("-");
     const year = dateArray[0];
@@ -15,6 +18,8 @@ function DataBody({ users }) {
       {users[0] !== undefined && users[0].name !== undefined ? (
         users.map(({ login, name, picture, phone, email, dob }) => {
           return (
+
+            
               <> </>
           //  use above mapped data and set into jsx
           );
