@@ -5,7 +5,7 @@ export default class Main extends Component {
   render() {
     return (
       <>
-        <p>HI</p>
+        
         <DataArea/>
      </>
     );

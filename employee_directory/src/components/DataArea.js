@@ -3,11 +3,12 @@ import DataTable from "./DataTable";
 import Navbar from "./Navbar.js";
 import Api from "../utilis/Api.js";
 import "../styles/DataArea.css";
+
 export default class DataArea extends Component {
   state = {
-    users: [{}],
+    users: [],
     order: "descend",
-    filteredUsers: [{}]
+    filteredUsers: []
   }
   headings = [
     { name: "Image", width: "10%" },

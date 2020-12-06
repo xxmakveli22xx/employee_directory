@@ -1,12 +1,6 @@
 import React from 'react';
-import employeeSeeds from "./seeds/seeds.json";
 import "../styles/Wrapper.css";
-function Wrapper({ employeeSeeds }) {
-  return (
-      <div className="wrapper">
-        { employeeSeeds }
-        
-      </div>
-  );
+function Wrapper(props) {
+  return <div className="wrapper">{props.children}</div>;
 }
 export default Wrapper;
