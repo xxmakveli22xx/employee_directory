@@ -1,9 +1,11 @@
 import React from 'react';
-//import "../styles/Wrapper.css";
-function Wrapper({ children }) {
+import employeeSeeds from "./seeds/seeds.json";
+import "../styles/Wrapper.css";
+function Wrapper({ employeeSeeds }) {
   return (
       <div className="wrapper">
-        { children }
+        { employeeSeeds }
+        
       </div>
   );
 }
