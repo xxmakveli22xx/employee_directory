@@ -1,3 +1,9 @@
 .table{
     background-color: darkgreen;
+
+}
+.title{
+    background-color: black;
+    color: white;
+    font-size: large;
 }

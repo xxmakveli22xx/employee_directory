@@ -78,7 +78,7 @@ class DataTable extends React.Component {
 
         <div className="table-responsive">
         <table className="table table-striped table-resposive text-center table-hover">
-            <thead>
+            <thead className ="title">
               <tr>
                 <th>Image</th>
                 <th>First Name <span className="downArrow" onClick={this.sortByFName}></span></th>
