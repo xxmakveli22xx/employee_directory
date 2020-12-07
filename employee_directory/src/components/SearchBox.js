@@ -13,10 +13,10 @@ const SearchBox = (props) => {
           name="search"
           type="text"
           className="form-control"
-          placeholder="Search Directory Here"
+          placeholder="Search Employee Name Here"
           id="search"
         />
-          <button onClick={props.handleFormSubmit} className="btn-primary"><i class="fas fa-sync-alt"></i></button>
+          <button onClick={props.handleFormSubmit} className="btn-primary"><i class="fas"></i></button>
       </div>
     </div>
   </form>

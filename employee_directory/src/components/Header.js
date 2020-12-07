@@ -5,7 +5,7 @@ export default class Header extends Component {
     return (
       <div className="header">
         <h1>Employee Directory</h1>
-        <p>Click on carrots to filter by heading or use the search box to narrow your results.</p>
+        <p>Filter the Heading by using the down/up arrows.</p>
       </div>
     )
   }
